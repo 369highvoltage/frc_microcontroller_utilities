@@ -1,3 +1,11 @@
+/**
+A simple arduino joystick controller board script by Shehroz B.
+Available for Public use
+
+MAKE SURE JOYSTICK REPO IS INSTALLED!!
+https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/version-2.0
+*/
+
 #include <Joystick.h>
 
 //create the Joystick
